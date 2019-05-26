@@ -74,7 +74,6 @@ void helpScreen() {              // function to display 1st screen in LCD
     lcd.print("Press Buttons");
     lcd.setCursor(0, 1);
     lcd.print("for Reminder...!");
-    
  }
 
 void timeScreen() {              // function to display Date and time in LCD screen
